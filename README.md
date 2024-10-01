@@ -26,6 +26,7 @@ _CEO "Fcore" with love💙_
 
 ## Our composition:
 **- A. Nikolaev - CEO, Technical Lead, Front-end developer**
+<br/>
 **- M. Yakovlev - Co-owner, Marketing Manager**
 <!--
 **FcoreTeam/FcoreTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
