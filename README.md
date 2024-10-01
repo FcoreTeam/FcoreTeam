@@ -1,4 +1,4 @@
-### We are Fcore💙
+# We are Fcore💙
 <!--
 **FcoreTeam/FcoreTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
