@@ -25,6 +25,8 @@ _CEO "Fcore" with love💙_
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ## Our composition:
+**- A. Nikolaev - CEO, Technical Lead, Front-end developer**
+**- M. Yakovlev - Co-owner, Marketing Manager**
 <!--
 **FcoreTeam/FcoreTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
