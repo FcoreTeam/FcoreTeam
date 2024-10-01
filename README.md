@@ -1,6 +1,7 @@
 # We are Fcore💙
 
 ### **Fcore - A family of talented web developers. We have been on the market for more than two years, and have a considerable portfolio and experience. Join us and work with us.**
+#### _CEO "Fcore" with love💙_
 <!--
 **FcoreTeam/FcoreTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
