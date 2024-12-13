@@ -25,7 +25,7 @@ _CEO "Fcore" with love💙_
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ## Our lead composition:
-**- A. Nikolaev - CEO, Technical Lead, Front-end developer**
+**- A. Nikolaev - CEO, Technical Lead, Middle+ Front-end developer**
 <br/>
 **- M. Yakovlev - Co-owner, Marketing Manager**
 <!--
