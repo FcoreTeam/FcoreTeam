@@ -21,11 +21,10 @@ _CEO "Fcore" with love💙_
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
 
 ## Our lead composition:
-**- A. Nikolaev - CEO, Technical Lead, Middle+ Front-end developer**
+**- A. Nikolaev - CEO, Tech-ead**
 <!--
 **FcoreTeam/FcoreTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
