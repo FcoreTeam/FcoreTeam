@@ -1,6 +1,6 @@
 # We are Fcore💙
 
-> ### **Fcore - A family of talented web and game developers. We have been on the market for more than two years, and have a considerable portfolio and experience. Join us and work with us.**
+> ### **Fcore - A family of talented web and mobile apps developers. We have been on the market for more than two years, and have a considerable portfolio and experience. Join us and work with us.**
 _CEO "Fcore" with love💙_
 > 
 ## Our technical skills:
